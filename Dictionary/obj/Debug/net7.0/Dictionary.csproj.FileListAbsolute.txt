@@ -1,0 +1,15 @@
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll
