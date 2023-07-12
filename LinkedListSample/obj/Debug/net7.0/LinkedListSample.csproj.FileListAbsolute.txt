@@ -1,0 +1,15 @@
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/bin/Debug/net7.0/LinkedListSample
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/bin/Debug/net7.0/LinkedListSample.deps.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/bin/Debug/net7.0/LinkedListSample.runtimeconfig.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/bin/Debug/net7.0/LinkedListSample.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/bin/Debug/net7.0/LinkedListSample.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.csproj.AssemblyReference.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.AssemblyInfo.cs
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/refint/LinkedListSample.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/LinkedListSample.genruntimeconfig.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/LinkedListSample/obj/Debug/net7.0/ref/LinkedListSample.dll

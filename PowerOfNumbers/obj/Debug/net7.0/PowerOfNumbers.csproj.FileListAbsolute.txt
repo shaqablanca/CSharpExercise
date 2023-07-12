@@ -1,0 +1,15 @@
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/bin/Debug/net7.0/PowerOfNumbers
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/bin/Debug/net7.0/PowerOfNumbers.deps.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/bin/Debug/net7.0/PowerOfNumbers.runtimeconfig.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/bin/Debug/net7.0/PowerOfNumbers.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/bin/Debug/net7.0/PowerOfNumbers.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.csproj.AssemblyReference.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.AssemblyInfo.cs
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/refint/PowerOfNumbers.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/PowerOfNumbers.genruntimeconfig.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/PowerOfNumbers/obj/Debug/net7.0/ref/PowerOfNumbers.dll

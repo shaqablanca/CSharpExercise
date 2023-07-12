@@ -1,0 +1,15 @@
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.csproj.AssemblyReference.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.AssemblyInfo.cs
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/bin/Debug/net7.0/NextProject
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/bin/Debug/net7.0/NextProject.deps.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/bin/Debug/net7.0/NextProject.runtimeconfig.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/bin/Debug/net7.0/NextProject.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/bin/Debug/net7.0/NextProject.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/refint/NextProject.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/NextProject.genruntimeconfig.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/NextProject/obj/Debug/net7.0/ref/NextProject.dll
