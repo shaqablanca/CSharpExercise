@@ -1,0 +1,15 @@
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/bin/Debug/net7.0/JumpGame
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/bin/Debug/net7.0/JumpGame.deps.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/bin/Debug/net7.0/JumpGame.runtimeconfig.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/bin/Debug/net7.0/JumpGame.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/bin/Debug/net7.0/JumpGame.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.csproj.AssemblyReference.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.AssemblyInfo.cs
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/refint/JumpGame.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/JumpGame.genruntimeconfig.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/JumpGame/obj/Debug/net7.0/ref/JumpGame.dll

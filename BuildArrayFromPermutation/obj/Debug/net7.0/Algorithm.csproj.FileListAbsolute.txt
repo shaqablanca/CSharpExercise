@@ -1,0 +1,15 @@
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.deps.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.runtimeconfig.json
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.csproj.AssemblyReference.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.AssemblyInfo.cs
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/refint/Algorithm.dll
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.pdb
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.genruntimeconfig.cache
+/Users/mac/Desktop/AlgorithmProblems/C#/Algorithm/Algorithm/obj/Debug/net7.0/ref/Algorithm.dll
