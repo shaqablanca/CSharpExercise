@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/bin/Debug/net7.0/CSharpExamples
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/bin/Debug/net7.0/CSharpExamples.deps.json
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/bin/Debug/net7.0/CSharpExamples.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/bin/Debug/net7.0/CSharpExamples.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/bin/Debug/net7.0/CSharpExamples.pdb
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/refint/CSharpExamples.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.pdb
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/CSharpExamples.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/CSharpExamples/obj/Debug/net7.0/ref/CSharpExamples.dll

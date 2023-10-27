@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/bin/Debug/net7.0/SumOfDigitsOfAfterConvert
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/bin/Debug/net7.0/SumOfDigitsOfAfterConvert.deps.json
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/bin/Debug/net7.0/SumOfDigitsOfAfterConvert.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/bin/Debug/net7.0/SumOfDigitsOfAfterConvert.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/bin/Debug/net7.0/SumOfDigitsOfAfterConvert.pdb
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/refint/SumOfDigitsOfAfterConvert.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.pdb
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/SumOfDigitsOfAfterConvert.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/SumOfDigitsOfAfterConvert/obj/Debug/net7.0/ref/SumOfDigitsOfAfterConvert.dll

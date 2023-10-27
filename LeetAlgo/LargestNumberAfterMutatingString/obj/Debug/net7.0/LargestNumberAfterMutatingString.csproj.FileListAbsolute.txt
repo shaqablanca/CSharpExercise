@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/bin/Debug/net7.0/LargestNumberAfterMutatingString
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/bin/Debug/net7.0/LargestNumberAfterMutatingString.deps.json
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/bin/Debug/net7.0/LargestNumberAfterMutatingString.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/bin/Debug/net7.0/LargestNumberAfterMutatingString.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/bin/Debug/net7.0/LargestNumberAfterMutatingString.pdb
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/refint/LargestNumberAfterMutatingString.dll
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.pdb
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/LargestNumberAfterMutatingString.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/CSharpExamples/LargestNumberAfterMutatingString/obj/Debug/net7.0/ref/LargestNumberAfterMutatingString.dll
